@@ -7,6 +7,7 @@ Feature: Demo
     When method get
 
     Then status 200
+    And match $ == {userId: 1,  id: 1,  title: "delectus aut autem",  completed: false}
 
   Scenario: get  place 999
     Given path 'todos/9999'
