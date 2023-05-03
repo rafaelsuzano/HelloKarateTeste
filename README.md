@@ -1,7 +1,24 @@
-# HelloKarateTeste
 
-https://github.com/karatelabs/karate
-https://karatelabs.github.io/karate/#response
-https://www.kloia.com/blog/step-1-introduction-to-karate-project-setup-hello-world
+# Estudo FrameWork Karate 
+## Hello World Karate Test com Cucumber
 
-https://blog.knoldus.com/karate-dsl-getting-started/
+
+
+Tipos de Testes
+
+    Get Status
+    Comparar JSON response
+    Post
+    Update
+    Delete
+
+url API:
+
+    https://jsonplaceholder.typicode.com/
+
+Referências:
+
+    https://github.com/karatelabs/karate
+    https://karatelabs.github.io/karate/#response
+    https://www.kloia.com/blog/step-1-introduction-to-karate-project-setup-hello-world
+    https://blog.knoldus.com/karate-dsl-getting-started/
