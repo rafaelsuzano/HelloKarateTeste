@@ -1,4 +1,5 @@
-Feature: Demo
+Feature: test script
+
 
   Background:
     * url 'https://jsonplaceholder.typicode.com/'
