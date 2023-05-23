@@ -7,6 +7,8 @@
     <list default="true" id="bac984d0-a0a4-4b87-807c-d49bf9525014" name="Changes" comment="estudo karate teste">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Demo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Demo.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,5 +167,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="estudo karate teste" />
     <option name="LAST_COMMIT_MESSAGE" value="estudo karate teste" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Features/Runner.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

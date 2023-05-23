@@ -32,18 +32,13 @@
     </properties>
     <dependencies>
 
-    <dependency>
-        <groupId>com.intuit.karate</groupId>
-        <artifactId>karate-apache</artifactId>
-        <version>0.9.6</version>
-        <scope>test</scope>
-
-    </dependency>
         <dependency>
             <groupId>com.intuit.karate</groupId>
             <artifactId>karate-core</artifactId>
-            <version>1.4.0.RC3</version>
+            <version> 1.4.0.RC3</version>
+            <classifier>all</classifier>
         </dependency>
+
 
         <dependency>
             <groupId>com.intuit.karate</groupId>
@@ -51,15 +46,6 @@
             <version>1.4.0</version>
             <scope>test</scope>
         </dependency>
-
-        <dependency>
-            <groupId>net.masterthought</groupId>
-            <artifactId>cucumber-reporting</artifactId>
-            <version>3.8.0</version>
-            <scope>test</scope>
-        </dependency>
-
-
     </dependencies>
 
 

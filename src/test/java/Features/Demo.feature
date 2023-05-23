@@ -14,3 +14,10 @@ Feature: test script
     Given path 'todos/9999'
     When method get
     Then status 404
+
+
+
+  Scenario: get  place 999 teste
+    Given path 'todos/9999'
+    When method get
+    Then status 200
